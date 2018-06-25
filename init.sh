@@ -22,10 +22,10 @@ IGNORE
 
 cat - > "$PWD/.editorconfig" <<CONFIG
 [*.js]
-indent_style = spaces
+indent_style = space
 indent_size = 2
 [*.json]
-indent_style= spaces
+indent_style= space
 indent_size = 2
 CONFIG
 
