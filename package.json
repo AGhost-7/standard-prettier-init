@@ -1,0 +1,22 @@
+{
+  "name": "standard-prettier-init",
+  "version": "0.1.0",
+  "description": "Sets configurations to get standard style and prettier up and running",
+  "main": "init.sh",
+  "bin": {
+    "standard-prettier-init": "init.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGhost-7/standard-prettier-init.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGhost-7/standard-prettier-init/issues"
+  },
+  "homepage": "https://github.com/AGhost-7/standard-prettier-init#readme"
+}
