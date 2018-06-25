@@ -1,6 +1,6 @@
 {
   "name": "standard-prettier-init",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sets configurations to get standard style and prettier up and running",
   "main": "init.sh",
   "bin": {
